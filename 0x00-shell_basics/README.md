@@ -1,1 +1,1 @@
-This is a readme file.
+Print current working directory.
